@@ -3,6 +3,8 @@ Eclipse Project
 
 Dự án này đã kép lại và khai tử vì quá nhiều bug với không được viết bằng OOP
 
-![unkndfown](https://user-images.githubusercontent.com/58846067/236675023-21509a47-a889-4e00-92e6-6770a6b2f0dc.png)
-![Uploading unknownggfg.png…]()
-[Uploading fđfdfd.png…]()
+
+![unkdfdfnown](https://user-images.githubusercontent.com/58846067/236675190-7eab102d-7a80-4f50-8edc-0164358e6eeb.png)
+![fđfdfd](https://user-images.githubusercontent.com/58846067/236675193-7d193bbc-c99e-4ea1-a5e7-a38b8ef6dfa0.png)
+![unkndfown](https://user-images.githubusercontent.com/58846067/236675195-b1e8a368-4846-4d8e-8eac-6b29533a10b3.png)
+![unknownggfg](https://user-images.githubusercontent.com/58846067/236675196-45c579a4-8bbd-4cbc-bdef-71c13a78ad51.png)
