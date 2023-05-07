@@ -1,5 +1,5 @@
 # SFC_Bedwars
-Bedwar 2029=2020
+Bedwar 2019-2021
 
 Dự án này đã kép lại!
 
